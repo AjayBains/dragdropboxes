@@ -72,7 +72,7 @@ function App() {
       </div>
       <div  data-swapy-slot="f">
         <div className="item item-f" data-swapy-item="f">
-          <div>f</div>
+          <div>F</div>
         </div>
       </div>
      

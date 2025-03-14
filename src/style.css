@@ -1,3 +1,12 @@
+* {
+  font-family: sans-serif !important;
+}
+.body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+}
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -8,6 +17,10 @@
   width: 300px;
   height: 200px;
   opacity: 0.85;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+ 
 }
 .item-a{
   background-color: rgb(195, 115, 11);
