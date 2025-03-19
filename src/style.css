@@ -1,42 +1,114 @@
 * {
   font-family: sans-serif !important;
 }
-.body{
+
+.body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: #f0f0f0;
 }
+
 .container {
   display: flex;
   flex-wrap: wrap;
-  gap:10px
+  gap: 10px
 }
 
-.item{
+.item {
   width: 300px;
   height: 200px;
   opacity: 0.85;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
- 
+
 }
-.item-a{
+
+.item-a {
   background-color: rgb(195, 115, 11);
 }
-.item-b{
-  background-color:rgb(7, 139, 95);
+
+.item-b {
+  background-color: rgb(7, 139, 95);
 }
-.item-c{
-  background-color:blueviolet
+
+.item-c {
+  background-color: blueviolet
 }
-.item-d{
+
+.item-d {
   background-color: brown
 }
-.item-e{
-  background-color:burlywood;
+
+.item-e {
+  background-color: burlywood;
 }
-.item-f{
-  background-color:rgb(51, 99, 3);
+
+.item-f {
+  background-color: rgb(51, 99, 3);
+}
+
+.item-g {
+  background-color: rgb(195, 115, 11);
+}
+
+.item-h {
+  background-color: rgb(7, 139, 95);
+}
+
+.item-i {
+  background-color: blueviolet
+}
+
+.item-j {
+  background-color: brown
+}
+
+.item-k {
+  background-color: burlywood;
+}
+
+.item-l {
+  background-color: rgb(89, 87, 6);
+}
+
+.item-m {
+  background-color: rgb(41, 78, 5);
+}
+
+.item-n {
+  background-color: rgb(115, 53, 12);
+}
+
+.item-o {
+  background-color: rgb(24, 16, 99);
+}
+
+.item-p {
+  background-color: rgb(92, 128, 55);
+}
+
+.item-q {
+  background-color: rgb(32, 13, 13);
+}
+
+.item-r {
+  background-color: rgb(14, 70, 86);
+}
+
+.item-s {
+  background-color: rgb(71, 10, 50);
+}
+
+.item-t {
+  background-color: rgb(128, 128, 128);
+}
+
+.item-u {
+  background-color: rgb(95, 8, 8);
+}
+
+.item-v {
+  background-color: rgb(51, 99, 3);
 }

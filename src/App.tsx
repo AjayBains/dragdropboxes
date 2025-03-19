@@ -75,6 +75,86 @@ function App() {
           <div>F</div>
         </div>
       </div>
+      <div data-swapy-slot="g">
+        <div className="item item-g" data-swapy-item="g">
+          <div>G</div>
+        </div>
+      </div>
+      <div data-swapy-slot="h">
+        <div className="item item-h" data-swapy-item="h">
+          <div>H</div>
+        </div>
+      </div>
+      <div data-swapy-slot="i">
+        <div className="item item-i" data-swapy-item="i">
+          <div>I</div>
+        </div>
+      </div>
+      <div data-swapy-slot="j">
+        <div className="item item-j" data-swapy-item="j">
+          <div>J</div>
+        </div>
+      </div>
+      <div data-swapy-slot="k">
+        <div className="item item-k" data-swapy-item="k">
+          <div>K</div>
+        </div>
+      </div>
+      <div data-swapy-slot="l">
+        <div className="item item-l" data-swapy-item="l">
+          <div>L</div>
+        </div>
+      </div>
+      <div data-swapy-slot="m">
+        <div className="item item-m" data-swapy-item="m">
+          <div>M</div>
+        </div>
+      </div>
+      <div data-swapy-slot="n">
+        <div className="item item-n" data-swapy-item="n">
+          <div>N</div>
+        </div>
+      </div>
+      <div data-swapy-slot="o">
+        <div className="item item-o" data-swapy-item="o">
+          <div>O</div>
+        </div>
+      </div>
+      <div data-swapy-slot="p">
+        <div className="item item-p" data-swapy-item="p">
+          <div>P</div>
+        </div>
+      </div>
+      <div data-swapy-slot="q">
+        <div className="item item-q" data-swapy-item="q">
+          <div>Q</div>
+        </div>
+      </div>
+      <div data-swapy-slot="r">
+        <div className="item item-r" data-swapy-item="r">
+          <div>R</div>
+        </div>
+      </div>
+      <div data-swapy-slot="s">
+        <div className="item item-s" data-swapy-item="s">
+          <div>S</div>
+        </div>
+      </div>
+      <div data-swapy-slot="t">
+        <div className="item item-t" data-swapy-item="t">
+          <div>T</div>
+        </div>
+      </div>
+      <div data-swapy-slot="u">
+        <div className="item item-u" data-swapy-item="u">
+          <div>U</div>
+        </div>
+      </div>
+      <div data-swapy-slot="v">
+        <div className="item item-v" data-swapy-item="v">
+          <div>V</div>
+        </div>
+      </div>
     </div>
   );
 }
