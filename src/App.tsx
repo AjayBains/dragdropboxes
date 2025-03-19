@@ -11,7 +11,7 @@ function App() {
     if (containerRef.current) {
       swapy.current = createSwapy(containerRef.current, {
         // animation: 'dynamic'
-        // swapMode: 'drop',
+        swapMode: "drop",
         // autoScrollOnDrag: true,
         // enabled: true,
         // dragAxis: 'x',
@@ -45,37 +45,36 @@ function App() {
   }, [swapy, containerRef]);
   return (
     <div className="container" ref={containerRef}>
-      <div  data-swapy-slot="a">
+      <div data-swapy-slot="a">
         <div className="item item-a" data-swapy-item="a">
           <div>A</div>
         </div>
       </div>
-      <div  data-swapy-slot="b">
+      <div data-swapy-slot="b">
         <div className="item item-b" data-swapy-item="b">
           <div>B</div>
         </div>
       </div>
-      <div  data-swapy-slot="c">
+      <div data-swapy-slot="c">
         <div className="item item-c" data-swapy-item="c">
           <div>C</div>
         </div>
       </div>
-      <div  data-swapy-slot="d">
+      <div data-swapy-slot="d">
         <div className="item item-d" data-swapy-item="d">
           <div>D</div>
         </div>
       </div>
-      <div  data-swapy-slot="e">
+      <div data-swapy-slot="e">
         <div className="item item-e" data-swapy-item="e">
           <div>E</div>
         </div>
       </div>
-      <div  data-swapy-slot="f">
+      <div data-swapy-slot="f">
         <div className="item item-f" data-swapy-item="f">
           <div>F</div>
         </div>
       </div>
-     
     </div>
   );
 }
